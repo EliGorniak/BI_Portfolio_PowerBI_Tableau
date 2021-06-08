@@ -1,5 +1,5 @@
 <h1 align="center">
-:bar_chart: Power BI Portfolio - Business Intelligence & Analytics :moneybag:
+Power BI Portfolio - Business Intelligence & Analytics
 </h1>
 <p align="center">
   Projects using Microsoft Power BI as business intelligence tool & certificates.
