@@ -15,7 +15,7 @@
 
 
 ---
-### ::hammer_and_wrench:  Projects :abacus:
+### :hammer_and_wrench:  Projects :abacus:
 
 | Project  |  Description  | Link | Article | 
 | ------------------- | ------------------- | ------------------- | ------------------- | 
