@@ -1,7 +1,3 @@
-# Business_Intelligence_Analytics_PowerBI_Portfolio
-Projects using Microsoft Power BI as business intelligence tool.
-
-
 <h1 align="center">
 :books: Business Intelligence & Analytics - Power BI Portfolio
 </h1>
