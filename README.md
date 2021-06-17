@@ -32,3 +32,6 @@ Power BI Portfolio - Business Intelligence & Analytics
 
 
 
+---
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eligorniak&repo=BI_Portfolio_PowerBI_Tableau&countColorcountColor&countColor=%237B1E7A) 
+
